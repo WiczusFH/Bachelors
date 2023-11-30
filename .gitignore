@@ -1,0 +1,8 @@
+logs
+__pycache__
+train_x
+train_y
+*.rar
+Models/__pycache__/
+Models/ModelInst/
+*.def
